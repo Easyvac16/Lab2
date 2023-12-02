@@ -1,0 +1,42 @@
+.pagination-container
+{
+    bottom: 0;
+    left: 50%;
+    width: auto;
+    text-align: center;
+}
+.pagination-container a
+{
+    margin: 0 5px;
+    text-decoration: none;
+    color: blue;
+}
+.pagination-container a:hover
+{
+    text-decoration: underline;
+}
+.myframe {
+    display: block;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    }
+  
+  iframe {
+    width: 300;
+}
+p
+{
+    font-size: 16px;
+    margin-left: 30.5%;
+    margin-right: 30.5%;
+
+}
+.myImage
+{
+    display: block;
+    margin: auto;
+    width: 37%;
+    text-align: center;
+}
+
